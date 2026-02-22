@@ -26,18 +26,18 @@ html {
 }
 
 body{
-    background-color: rgb(250, 236, 236);
+    background-color: #999;
     text-align: center;
 }
 
 h1{
     font-size: 40px;
-    color: rgb(202, 69, 250);
+    color: rgb(250, 246, 13);
 }
 
 button{
     padding: 5px 20px;
     border-radius: 5px;
-    color: white;
-    background-color: rgb(231, 83, 226);
+    color: rgb(22, 21, 21);
+    background-color: rgb(243, 237, 42);
 }
