@@ -32,12 +32,12 @@ body{
 
 h1{
     font-size: 40px;
-    color: blueviolet;
+    color: rgb(231, 214, 21);
 }
 
 button{
     padding: 5px 20px;
     border-radius: 5px;
     color: white;
-    background-color: blueviolet;
+    background-color: rgb(174, 237, 25);
 }
